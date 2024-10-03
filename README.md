@@ -42,7 +42,7 @@ Feel free to read and share the "Accelerated LLM Training Best Practices" cheats
 # Getting Started
 
 1. Clone this repository:
-`git clone https://github.com/your-username/llm-training-recipes.git`
+`git clone https://github.com/ethanshenley/llm-training-recipes.git`
 `cd llm-training-recipes`
 
 2. Install the required packages:
